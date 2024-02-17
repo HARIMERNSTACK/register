@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+
+}
+body{
+    background-color: aquamarine; 
+    
+}
+
+.container{
+    background-color: white;
+   margin-left:35%;
+   margin-top: 25px;
+   width: fit-content;
+  
+}
+.name{
+    padding-bottom: 15px;
+    margin-left: 5px;
+}
+.name input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+   
+}
+.name label{
+    margin: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+   
+}
+.email{
+    padding-bottom: 15px;
+    margin-left: 5px;
+}
+.email input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.email label{
+    margin: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+   
+}
+.phone{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.phone label{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.phone input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.birth{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.birth label{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.birth input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.gender{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.gender label{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.address{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.address label{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.address input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.one{
+    margin-top: 5px;
+    margin-left: 87px;
+}
+.option{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.i{
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.region{
+    margin-top: 7px;
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.region input{
+    
+      padding: 5px;
+        border-radius: 3px;
+        border-color: rgb(111, 0, 255);
+        margin-left: 5px;
+}
+.region label{
+    margin: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+   
+}
+.city{
+    
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.city input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+    margin-left: 5px;
+}
+.city label{
+    margin: 10px;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+}
+.code{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+}
+.code input{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+    margin-left: 5px;
+}
+.code label{
+    
+        margin: 10px;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: large;
+}
+.submit{
+    padding: 5px;
+    border-radius: 3px;
+    border-color: rgb(111, 0, 255);
+    font-size: 50px;
+}
+.submit input{
+    width: 80%;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+    border-color: rgb(0, 255, 106);
+    margin-left: 25px;
+    margin-top: 15px;
+    background-color: red;
+    color: white;
+}
+.form{
+    margin:30px;
+}
+fieldset{
+    border-color: red;
+}
+fieldset:hover{
+    background-color: cadetblue;
+}
